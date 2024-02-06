@@ -1,0 +1,1 @@
+This is my learning course that contains some basic Tasks and knowledge that I have acquired. Inside this repository there is file named "library" - This is application that is compedium of my knowledge about java and contains code that uses most of techniques to program in Java.
